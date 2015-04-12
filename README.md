@@ -1,7 +1,7 @@
 Normals Wiki
 ============
 
-[Klikk here for å komme til Wikien](https://github.com/normalnorway/wiki/wiki).
+[Klikk her for å komme til Wikien](https://github.com/normalnorway/wiki/wiki).
 
 De eneste funksjonene som er i bruk er «Wiki» og «Issue tracker».
 (Se menyen til høyre).
